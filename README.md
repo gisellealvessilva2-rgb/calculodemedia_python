@@ -8,17 +8,17 @@
 
 ***
 
-### PASSO A PASSO ###
+## PASSO A PASSO ###
 
-* Siga os passos abaixo para rodar o código na sua máquina: 
+### Siga os passos abaixo para rodar o código na sua máquina: 
 
-Certifiqui-se de ter o Python instalado no seu computador.
+- Certifiqui-se de ter o Python instalado no seu computador.
 
-Abra o terminal (ou prompt do comando) na pasta onde o arquivo foi salvo.
+- Abra o terminal (ou prompt do comando) na pasta onde o arquivo foi salvo.
 
-Execute o seguinte comando:
+### Execute o seguinte comando:
 
-Python calculadora notas.py
+- Python calculadora notas.py
 
 ***
 
